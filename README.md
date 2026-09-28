@@ -1,4 +1,2 @@
-# feature-update-readme
-this is my practical 
-created by shouryaa sharma
-c
+# My Branching Lab
+This repository demonstrates GitHub Actions CI.
